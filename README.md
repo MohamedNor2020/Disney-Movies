@@ -7,5 +7,5 @@ In this project I scraped disney movies information from wikipedia using
 - metascore rating
 - box office 
 - awards
--For this joining I used the (OMDB API) that allows you to get all sorts of info about movies and Tv shows .
+- For this joining I used the (OMDB API) that allows you to get all sorts of info about movies and Tv shows .
 
